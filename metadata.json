@@ -1,0 +1,6 @@
+{
+  "name": "Social Network",
+  "description": "A feature-rich social network platform similar to Instagram and Facebook with feeds, stories, dynamic user profiles, and interactive post creation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
